@@ -1,7 +1,7 @@
 <h1 align="center">Network Traffic Analysis with Wireshark Project</h1>
 
 <p align="center">
-  <b>[ EN ]</b> Live Packet Capture & Protocol Filtering
+  <b></b> Live Packet Capture & Protocol Filtering
 </p>
 
 <p align="center">
