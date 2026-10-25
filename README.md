@@ -95,5 +95,3 @@ I applied the `arp` display filter to show only ARP traffic, which maps IP addre
 ## 6. Tools Used
 
 * Wireshark.
-
----
